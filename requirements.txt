@@ -1,0 +1,10 @@
+openai
+torch
+wandb
+datasets
+peft
+trl 
+transformers
+tensorflow
+google-generativeai
+chardet
